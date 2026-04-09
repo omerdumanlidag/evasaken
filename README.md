@@ -1,4 +1,4 @@
-local GITHUB_BASE = ""
+local GITHUB_BASE = "https://raw.githubusercontent.com/omerdumanlidag/evasaken/refs/heads/main"
 
 local SUPPORTED_GAMES = {
     ["Evade"] = {
